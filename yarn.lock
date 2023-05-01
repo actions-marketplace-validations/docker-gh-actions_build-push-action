@@ -1625,10 +1625,10 @@ cssstyle@^2.3.0:
   dependencies:
     cssom "~0.3.6"
 
-csv-parse@*, csv-parse@^5.3.5:
-  version "5.3.5"
-  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-5.3.5.tgz#9924bbba9f7056122f06b7af18edc1a7f022ce99"
-  integrity sha512-8O5KTIRtwmtD3+EVfW6BCgbwZqJbhTYsQZry12F1TP5RUp0sD9tp1UnCWic3n0mLOhzeocYaCZNYxOGSg3dmmQ==
+csv-parse@*, csv-parse@^5.3.5, csv-parse@^5.3.9:
+  version "5.3.9"
+  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-5.3.9.tgz#7af0daa161b0213080bb2cdffacd9b699cf48963"
+  integrity sha512-Nuh09OE1+wG6x5Lu2T+woxlupPAnWJ6Wj9XVYK74gP646e5gDrUsrCws1zz5NbckpQ+jygnxb8xDLj3gfBxi3w==
 
 data-urls@^2.0.0:
   version "2.0.0"
